@@ -143,6 +143,11 @@
     <javaee-javadoc-url>http://download.oracle.com/javaee/6/api/</javaee-javadoc-url>
     <slf4j-javadoc-url>http://www.slf4j.org/apidocs/</slf4j-javadoc-url>
 
+    <sonar.projectKey>sofiaoreis_activemq</sonar.projectKey>
+    <sonar.organization>sofiaoreis</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
+
     <!-- Maven Plugin Version for this Project -->
     <maven-bundle-plugin-version>2.3.7</maven-bundle-plugin-version>
     <maven-surefire-plugin-version>2.16</maven-surefire-plugin-version>
